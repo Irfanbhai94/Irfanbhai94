@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm 𝐈𝐓𝐀𝐂𝐇𝐈</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+![image alt](https://github.com/Irfanbhai94/Chat-app/blob/21cba2f6240c00a31d7a3d9481b4acabb145926a/IMG_20250112_103833_555.jpg)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irfanbhai94&label=Profile%20views&color=0e75b6&style=flat" alt="irfanbhai94" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=irfanbhai94" alt="irfanbhai94" /></a> </p>
